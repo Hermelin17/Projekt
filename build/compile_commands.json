@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/teohedelin/Skola/TNCG15/Projekt/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/teohedelin/Skola/TNCG15/Projekt/build/_deps/glm-src/glm/.. -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/Globalen.dir/main.cpp.o -c /Users/teohedelin/Skola/TNCG15/Projekt/main.cpp",
+  "file": "/Users/teohedelin/Skola/TNCG15/Projekt/main.cpp",
+  "output": "CMakeFiles/Globalen.dir/main.cpp.o"
+}
+]
